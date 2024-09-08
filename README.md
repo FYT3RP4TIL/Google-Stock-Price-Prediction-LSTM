@@ -140,7 +140,9 @@ The resulting plot shows:
 - 🔴 Red line: Real Google Stock Price
 - 🔵 Blue line: Predicted Google Stock Price
 
-This allows for a visual assessment of the model's performance in predicting stock prices.
+![download](https://github.com/user-attachments/assets/e9688547-e811-45ce-a527-c5f6b504933c)
+
+The Model shows the general curve for how stocks will move not the sudden peaks and downs which is not possible to predict for now. The model preforms perfectly to see rise and decline in stock.
 
 ## 🎉 Conclusion
 
