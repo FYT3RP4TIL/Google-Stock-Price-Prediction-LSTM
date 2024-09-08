@@ -8,6 +8,8 @@ Welcome to our exciting journey of predicting Google stock prices using cutting-
 
 ### 1. 🔁 What is RNN (Recurrent Neural Network)?
 
+![image](https://github.com/user-attachments/assets/70065643-92c9-42ca-ae46-5fe9cc29208e)
+
 Recurrent Neural Networks (RNNs) are the time lords of the neural network world! They're designed to work with sequential data, making them perfect for tasks like stock price prediction.
 
 Key features:
@@ -19,6 +21,8 @@ Key features:
 
 The Vanishing Gradient Problem is the arch-nemesis of deep neural networks, especially RNNs. It's like trying to whisper a message through a long line of people - by the time it reaches the end, the message is lost!
 
+![image](https://github.com/user-attachments/assets/e8bc10b5-7418-4f3b-b3d3-8bb25b4017f8)
+
 Key points:
 - 🔬 Gradients become extremely small during backpropagation
 - 🐌 Earlier layers or time steps learn very slowly
@@ -28,6 +32,8 @@ Key points:
 ### 3. 🧬 What is LSTM (Long Short-Term Memory)?
 
 Long Short-Term Memory (LSTM) networks are the superheroes that save us from the vanishing gradient problem! They're specially designed to capture long-term dependencies in sequential data.
+
+![image](https://github.com/user-attachments/assets/44d89c74-f45b-4701-998a-0bde6e410537)
 
 Key features:
 - 🗃️ Introduce a memory cell for long-term information storage
